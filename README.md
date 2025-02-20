@@ -17,11 +17,6 @@ Install required libraries:
 pip install numpy scipy matplotlib tomopy astra-toolbox torch h5py
 ```
 
-## File Structure
-- **BAM_CT_Reconstruct.py**: Core module for CT reconstruction and automatic COR detection.
-- **Final_Automatic_COR_Findings.pptx**: Presentation detailing methodology and results.
-- **Projection Import Modules**: Handles input from HDF5 and other CT scan formats.
-
 ## Usage (Unavailable Due to Data Confidentiality)
 The usage examples below outline the intended process, but due to company confidentiality, the dataset required to execute these steps is not publicly available. As a result, direct implementation and testing cannot be performed outside the internal environment.
 ### Load and Process Data
